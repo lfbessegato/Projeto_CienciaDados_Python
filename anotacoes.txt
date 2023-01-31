@@ -1,0 +1,8 @@
+Ativar => source env/bin/activate
+
+Pesquisar => pip search nomepacote
+
+Criar arquivo com todas as versões => pip freeze > requeriments
+
+Usar arquivo para instalar em outra Env => pip install -r requeriments.txt
+
